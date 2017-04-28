@@ -1,0 +1,27 @@
+{
+  "name": "botworks",
+  "version": "1.0.0",
+  "description": "building bot in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant-s23/BotWorks.git"
+  },
+  "keywords": [
+    "bot",
+    "skype"
+  ],
+  "author": "nishant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishant-s23/BotWorks/issues"
+  },
+  "homepage": "https://github.com/nishant-s23/BotWorks#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
